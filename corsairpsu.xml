@@ -7,7 +7,7 @@
 <Name>Corsair PSU Statistics</Name>
 <Project>https://forums.unraid.net/topic/86715-corsair-psu-statistics-inteligent-psus-fma965s-fork/</Project>
 <Description>
-A plugin that reads the statistics from supported Corsair PSU's with a USB port and displays them in the dashboard.
+A plugin that reads the statistics from supported Corsair PSUs with a USB port and displays them in the dashboard.
 </Description>
 <Requires>Compatible Corsair power supply</Requires>
 <Support>https://forums.unraid.net/topic/86715-corsair-psu-statistics-inteligent-psus-fma965s-fork/</Support>
