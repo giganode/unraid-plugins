@@ -9,7 +9,7 @@
 <Description>
 A plugin that reads the statistics from supported Corsair PSUs with a USB port and displays them in the dashboard.
 </Description>
-<Requires>Compatible Corsair power supply</Requires>
+<Requires>Compatible Corsair Power Supply</Requires>
 <Support>https://forums.unraid.net/topic/86715-corsair-rmi-hxi-axi-psu-statistics-cyanlabss-fork/</Support>
 <Icon>https://raw.githubusercontent.com/giganode/corsairpsu-unraid/master/src/corsairpsu/usr/local/emhttp/plugins/corsairpsu/icons/corsairpsu.png</Icon>
 <IconFA>icon-ups</IconFA>
