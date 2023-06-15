@@ -2,7 +2,7 @@
 <Containers>
 <PluginURL>https://raw.githubusercontent.com/giganode/corsairpsu-unraid/master/corsairpsu.plg</PluginURL>
 <PluginAuthor>giganode</PluginAuthor>
-<Beta>True</Beta>
+<Beta>False</Beta>
 <Category>Other: Drivers:</Category>
 <Name>Corsair PSU Statistics</Name>
 <Project>https://forums.unraid.net/topic/86715-corsair-rmi-hxi-axi-psu-statistics-cyanlabss-fork/</Project>
