@@ -9,5 +9,5 @@
   Check the link below to confirm if your integrated graphics support SR-IOV.
   https://www.intel.com/content/www/us/en/support/articles/000093216/graphics.html</Description>
   <Support>https://forums.unraid.net/topic/154464-unraid-plugin-for-igpu-sr-iov-support-page/</Support>
-  <Icon>https://raw.githubusercontent.com/giganode/unraid-i915-sriov/blob/8bd3f8f53662de945a1e542bac070efdf93ba089/intel-sr-iov.png</Icon>
+  <Icon>https://raw.githubusercontent.com/giganode/unraid-i915-sriov/master/intel-sr-iov.png</Icon>
 </Containers>
