@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Containers>
+  <PluginURL>https://raw.githubusercontent.com/giganode/unraid-mqtt-pub-sub/master/mqtt-pub-sub.plg</PluginURL>
+  <PluginAuthor>giganode</PluginAuthor>
+  <Beta>false</Beta>
+  <Category>Productivity: Tools:</Category>
+  <Name>MQTT Pub & Sub</Name>
+  <Description>Unraid Plugin to add the ability to publish to a mqtt broker or subscribe to a topic.</Description>
+  <Support>https://forums.unraid.net/topic/177974-plugin-mqtt-pub-sub-support-page/</Support>
+  <Icon>https://raw.githubusercontent.com/giganode/unraid-mqtt-pub-sub/master/mqtt.png</Icon>
+</Containers>
